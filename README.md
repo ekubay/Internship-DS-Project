@@ -57,9 +57,8 @@ Here are the most important feature in the model in deacreasing order
  > - XGBoost Test Accuracy: 0.8095
  > - Ensemble Model Test Accuracy: 0.8095
 - Most of the perform the same 
-
-*** AUC and ROC Curved ***
-![](AUC- ROC.png)
+##### AUC and ROC Curved #####
+![](AUC_ROC.png)
 
 ## Visualization
 ![](Underlying_cause_5.png)
