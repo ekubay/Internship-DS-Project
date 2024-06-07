@@ -37,3 +37,31 @@ Here are the most important feature in the model in deacreasing order
     >  - Maternal Factor_Undetermined 
     >  - Maternal Factor_Preeclampsia
     >  - Maternal Factor_Fetus and newborn affecte
+
+## Model Evaluation 
+ *** N-fold cross validation ***
+ > - Logistic Regression: 0.6575
+ > - Support Vector Machine: 0.6575
+ > - AdaBoost: 0.6575 
+ > - Random Forest: 0.6575 
+ > - Gradient Boosting: 0.6575
+ > - XGBoost: 0.6644 ± 0.0098
+ - The Best Model is identified as XGBoost
+
+ *** Using Accuracy score metrics ***
+ > - Logistic Regression Test Accuracy: 0.8095
+ > - Support Vector Machine Test Accuracy: 0.8095
+ > - AdaBoost Test Accuracy: 0.7778
+ > - Random Forest Test Accuracy: 0.8095
+ > - Gradient Boosting Test Accuracy: 0.8095
+ > - XGBoost Test Accuracy: 0.8095
+ > - Ensemble Model Test Accuracy: 0.8095
+- Most of the perform the same 
+
+AUC and ROC Curvecd
+![](AUC-ROC.png)
+
+## Visualization
+![](Underlying_cause_5.png)
+
+![](Maternal_factor_5.png)
