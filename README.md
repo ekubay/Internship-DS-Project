@@ -11,7 +11,7 @@ In this section various activities are perforemd such as cleaning, transforming,
 > 
 
 ## Descriptive Analysis
-![](Magnitude.png)
+![](Magnitude_underlyisncause.png.png)
 
 *****Insight from the above | underlying cause*****
 - the above descriptive summary and the bar graph shows clear and precise information. accordingly here is few summary given below to make it simplify.
@@ -21,7 +21,7 @@ In this section various activities are perforemd such as cleaning, transforming,
 > - Next, `Severe acute malnutrition` is the cause for the infant death which is 5%. 
 - In summary considering the magnitude and proportion of the underlying cause, there should be a special attention to reduce the infant death caused by `Intrauterine hypoxia`.
 
-![](Magnitude.png)
+![](Proportion_caseType.png)
 *****Insight from the above | Case Type*****
 - The above descriptive summary and the pie chart shows clear and precise information about the case type in relation to infant death . Accordingly, here is few summary given below to make it ease.
 > - `Stillbirth`, is the first most highest case type in infant death and it accounts 53% of the total deaths cases.
