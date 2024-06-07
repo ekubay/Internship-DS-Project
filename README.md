@@ -58,8 +58,8 @@ Here are the most important feature in the model in deacreasing order
  > - Ensemble Model Test Accuracy: 0.8095
 - Most of the perform the same 
 
-AUC and ROC Curvecd
-![](AUC-ROC.png)
+*** AUC and ROC Curved ***
+![](AUC- ROC.png)
 
 ## Visualization
 ![](Underlying_cause_5.png)
