@@ -11,7 +11,7 @@ In this section various activities are perforemd such as cleaning, transforming,
 > 
 
 ## Descriptive Analysis
-![](Magnitude_underlyisncause.png.png)
+![](Magnitude_underlyisncause.png)
 
 *****Insight from the above | underlying cause*****
 - the above descriptive summary and the bar graph shows clear and precise information. accordingly here is few summary given below to make it simplify.
@@ -29,3 +29,11 @@ In this section various activities are perforemd such as cleaning, transforming,
 > - `Early Neonate (1 to 6 days)` accounts 11% in the infant death which is ranked thirdly accordingto the given dataset.
 > - Next, `Child (12 months to less than 60 months)` accounts 9% in the infant death. 
 - In summary considering the magnitude and proportion of the case type in relation to infant death, it requiers a specila research and study to mitigate the problem behind the case type `Stillbirth`.
+
+## Feature Engineering 
+![](RandomForest.png)
+Here are the most important feature in the model in deacreasing order
+- Random Forest
+    >  - Maternal Factor_Undetermined 
+    >  - Maternal Factor_Preeclampsia
+    >  - Maternal Factor_Fetus and newborn affecte
